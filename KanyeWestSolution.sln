@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KanyeWestUI", "KanyeWestUI\KanyeWestUI.csproj", "{06333F17-E9F4-4ADE-A27C-138D5ED66BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06333F17-E9F4-4ADE-A27C-138D5ED66BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06333F17-E9F4-4ADE-A27C-138D5ED66BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06333F17-E9F4-4ADE-A27C-138D5ED66BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06333F17-E9F4-4ADE-A27C-138D5ED66BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F762A3B9-1791-4E16-941B-C28321A7FA99}
+	EndGlobalSection
+EndGlobal
